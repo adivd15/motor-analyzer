@@ -1,0 +1,3 @@
+[submodule "st-development-tools"]
+	path = st-development-tools
+	url = git@github.com:adivd15/st-development-tools.git
